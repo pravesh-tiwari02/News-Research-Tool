@@ -1,0 +1,7 @@
+streamlit
+langchain>=0.1.17
+langchain-groq
+unstructured
+sentence-transformers
+python-dotenv
+faiss-cpu
